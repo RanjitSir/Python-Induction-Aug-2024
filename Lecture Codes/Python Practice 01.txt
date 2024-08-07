@@ -1,0 +1,43 @@
+
+#name = "Mark"
+#age = 37
+
+#print("Hi", name, "your age is", age, "years")
+#print("Hi " + name + " your age is " + str(age) + " years" )
+
+#print("Hi", name, "your age is", age, "years", sep="\n")
+
+=========================================================
+
+
+print("Welcome, To Programming!!!")
+print("\n Table of 7 => ")
+
+for x in range(1, 11, 1):
+	print("\t 7 * ", x , " = ", 7*x , ".")
+print("Thanks!!!")
+
+=========================================================
+
+print("Welcome, To Programming!!!")
+print("\n Table of 7 => ")
+
+for x in range(1, 11, 1):
+	#print("\t 7 * ", x , " = ", 7*x , ".")
+	print(f"\t 7 * {x:3} = {7*x:3}.")
+print("Thanks!!!")
+
+=========================================================
+
+print("Welcome, To Programming!!!")
+
+print("\n Enter a number to get its a table : ", end='')
+No = input()
+
+print(f"\n Table of {No} => ")
+
+for x in range(1, 11, 1):
+	print(f"\t {No} * {x:<3} = {int(No)*x:<2}.")
+print("Thanks!!!")
+
+=========================================================

@@ -1,0 +1,46 @@
+Write following Programs
+
+1 Print  "Hello world" Message
+
+2 Addition of two numbers
+
+3 Check Given Number Even or Odd
+
+4 Find out Maximum number from given 2 numbers
+
+5 Accept Day number (1 To 7) Print Day Text - 
+	eg. 1 - Monday, 2 - Tuesday .....
+	
+6 Print Numbers 101 to 110 (Using Loop)
+
+7 Print Factorial of given Number
+
+8 Print Table of given Number
+
+9 Print Sum of 10 inputed numbers
+
+10 Accept Number and display its Square & Cube
+
+
+==========================================================
+
+1 Print  "Your Full Name" Message
+
+2 Multiplication of two numbers
+
+3 Check Given Number +ve or -ve
+
+4 Find out Maximum number from given 3 numbers
+
+5 Accept Month number (1 To 12) Print Month Text - 
+	eg. 1 - January, 2 - February .....
+	
+6 Print Letters H to N (Using Loop)
+
+7 Print Fibonassi Series
+
+8 Print Reverse Table of given Number
+
+9 Print Max from 10 inputed numbers
+
+10 Accept Radius and display its Area & Cicumference

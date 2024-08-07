@@ -1,0 +1,19 @@
+Basic Set Programs
+
+
+Find the size of a Set in Python
+Iterate over a set in Python
+Python – Maximum and Minimum in a Set
+Python – Remove items from Set
+Python – Check if two lists have at-least one element common
+Python program to find common elements in three lists using sets
+Python – Find missing and additional values in two lists
+Python program to find the difference between two lists
+Python Set difference to find lost element from a duplicated array
+Python program to count number of vowels using sets in given string
+Concatenated string with uncommon characters in Python
+Python – Program to accept the strings which contains all vowels
+Python – Check if a given string is binary string or not
+Python set to check if string is panagram
+Python Set – Pairs of complete strings in two sets
+Python program to check whether a given string is Heterogram or not

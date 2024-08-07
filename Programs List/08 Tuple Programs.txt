@@ -1,0 +1,24 @@
+
+Basic Tuple Programs
+
+
+Python program to Find the size of a Tuple
+Python – Maximum and Minimum K elements in Tuple
+Create a list of tuples from given list having number and its cube in each tuple
+Python – Adding Tuple to List and vice – versa
+Python – Sum of tuple elements
+Python – Modulo of tuple elements
+Python – Row-wise element Addition in Tuple Matrix
+Python – Update each element in tuple list
+Python – Multiply Adjacent elements
+Python – Join Tuples if similar initial element
+Python – All pair combinations of 2 tuples
+Python – Remove Tuples of Length K
+Python – Remove Tuples from the List having every element as None
+Sort a list of tuples by second Item
+Python – Sort Tuples by Total digits
+Python – Elements frequency in Tuple
+Python – Filter Range Length Tuples
+Python – Assign Frequency to Tuples
+Python – Records with Value at K index
+Python – Test if tuple is distinct

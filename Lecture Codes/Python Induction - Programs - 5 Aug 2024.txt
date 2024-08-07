@@ -1,0 +1,98 @@
+N1 = 0
+N2 = 0
+Add = 0
+
+N1 = int(input("Enter 1st number : "))
+N2 = int(input("Enter 2nd number : "))
+
+Add = N1 + N2
+
+print("Addition of " + N1 + " And " + N2 + " is = " + str(Add) + "." )
+
+===================================================================================
+
+Num = 0
+
+Num = int(input("Enter a number : "))
+
+if Num > 100 :
+        print("Hello")
+
+print("Welcome")
+print("Thanks")
+
+====================================================================================
+
+Num = 0
+
+Num = int(input("Enter a number : "))
+
+if Num % 2 == 0 :
+        print("Number is EVEN")
+else:
+        print("Number is ODD")
+
+print("Thanks")
+
+====================================================================================
+
+Num = 0
+
+Num = int(input("Enter a number : "))
+
+if Num == 0:
+        print("Number is Neutral")
+elif Num % 2 == 0 :
+        print("Number is EVEN")
+else:
+        print("Number is ODD")
+
+print("Thanks")
+
+====================================================================================
+
+N1 = 0
+N2 = 0
+
+N1 = int(input("Enter 1st number : "))
+N2 = int(input("Enter 2nd number : "))
+
+if N1 == N2:
+        print("Numbers are Same")
+elif N1 > N2 :
+        print(f"{N1} is Maximum")
+else:
+        print(f"{N2} is Maximum")
+
+print("Thanks")
+
+====================================================================================
+
+Day = 0
+
+Day = int(input("Enter Day Number(1-7) : "))
+
+if Day == 1:
+        print("Monday")
+elif Day == 2 :
+        print("Tuesday")
+elif Day == 3 :
+        print("Wednesday")
+elif Day == 4 :
+        print("Thursday")
+elif Day == 5 :
+        print("Friday")
+elif Day == 6 :
+        print("Saturday")
+elif Day == 7 :
+        print("Sunday")
+else:
+        print("Invalid Day Value")
+
+print("Thanks")
+
+
+====================================================================================
+
+
+
